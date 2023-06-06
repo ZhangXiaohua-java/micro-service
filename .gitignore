@@ -1,0 +1,10 @@
+# Project exclude paths
+/parent/common/target/
+/parent/consumer/target/
+/parent/provider/target/
+/common.iml
+/consumer.iml
+/micro-service.iml
+/parent.iml
+/provider.iml
+/.idea/

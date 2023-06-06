@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: consumer
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.2.105:8848
+        username: nacos
+        password: nacos
+        cluster-name: DEFAULT
+
+
+
+server:
+  port: 8000
